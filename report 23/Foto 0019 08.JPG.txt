@@ -1,0 +1,20 @@
+-----------------Results----------------------
+12<- faces found  12/12
+100.0%
+-----------------Unfound photos----------------------
+Foto 0936_VoapPCh.JPG
+Foto 0936_VoapPCh.JPG
+-----------------Photo belongs to----------------------
+Foto 0019 08_ICJ8ZPE.JPG - 8
+Foto 0050_BaftaF5.JPG - 8
+Foto 0102_JgzX9rI.JPG - 8
+Foto 0284_Ziuf0tf.JPG - 8
+Foto 0380_6MfiwZn.JPG - 8
+Foto 0565_1g5yj2J.JPG - 8
+Foto 0566_D8clD2L.JPG - 8
+Foto 0936_VoapPCh.JPG - 8
+Foto 0961_moGpl2p.JPG - 8
+Foto 0964_BeTKE4w.JPG - 8
+Foto 0970_Va7sUcf.JPG - 8
+Foto 1159_mm5G0eG.JPG - 8
+-----------------Not recognized faces----------------------

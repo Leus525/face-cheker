@@ -1,0 +1,37 @@
+-----------------Results----------------------
+14/31
+45.16129032258065%
+-----------------Unfound photos----------------------
+-----------------Photo belongs to----------------------
+Foto 1481_XYx0dUa.JPG - 12
+Foto 1178_o6jb10o.JPG - 12
+Foto 0863_PhRI0Zy.JPG - 12
+Foto 0862_TgVaUPT.JPG - 12
+Foto 0811_83UyK8d.JPG - 12
+Foto 0810_XR4To2B.JPG - 12
+Foto 0775_hYK5CoD.JPG - 12
+Foto 0765_hOFVf1v.JPG - 12
+Foto 0753_HIQUt2u.JPG - 12
+Foto 0740_Qf2lyoW.JPG - 12
+Foto 0739_L2W4MhP.JPG - 12
+Foto 0738_adxNiIn.JPG - 12
+Foto 0576_U7hog3v.JPG - 12
+Foto 0189_1c3VT4B.JPG - 12
+-----------------Not recognized faces----------------------
+Foto 1386_jDfQ7V1.JPG
+Foto 1273_GURhw84.JPG
+Foto 1265_jA7ipPn.JPG
+Foto 1188_XVTDf4N.JPG
+Foto 1172_yQ0faka.JPG
+Foto 0838_nXiAGgq.JPG
+Foto 0829_ub9R6SV.JPG
+Foto 0828_PJAGGDs.JPG
+Foto 0827_USEMZBZ.JPG
+Foto 0809_6Vq7riO.JPG
+Foto 0786_VemeFHR.JPG
+Foto 0745_Isrl6fa.JPG
+Foto 0188_SaeipZG.JPG
+Foto 0185_NU474Z9.JPG
+Foto 0071_KxxoPxl.JPG
+Foto 0069_FWUnbTy.JPG
+Foto 0068 12.JPG

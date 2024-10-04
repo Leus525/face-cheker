@@ -1,0 +1,84 @@
+-----------------Results----------------------
+76/31
+245.16129032258064%
+-----------------Unfound photos----------------------
+Foto 0188_NOQYSaA.JPG
+Foto 0838_ZhVgEGc.JPG
+-----------------Photo belongs to----------------------
+Foto 0068 12_dkX1Env.JPG - 15
+Foto 0068 12_dkX1Env.JPG - 8
+Foto 0068 12_dkX1Env.JPG - 9
+Foto 0068 12_dkX1Env.JPG - 12
+Foto 0069_alMEFUC.JPG - 8
+Foto 0069_alMEFUC.JPG - 12
+Foto 0069_alMEFUC.JPG - 8
+Foto 0071_0io0gUU.JPG - 12
+Foto 0185_fNVjA2A.JPG - 15
+Foto 0185_fNVjA2A.JPG - 8
+Foto 0185_fNVjA2A.JPG - 9
+Foto 0185_fNVjA2A.JPG - 12
+Foto 0188_NOQYSaA.JPG - 9
+Foto 0188_NOQYSaA.JPG - 12
+Foto 0188_NOQYSaA.JPG - 15
+Foto 0188_NOQYSaA.JPG - 8
+Foto 0188_NOQYSaA.JPG - 9
+Foto 0189_96XuEW5.JPG - 8
+Foto 0189_96XuEW5.JPG - 9
+Foto 0189_96XuEW5.JPG - 12
+Foto 0576_o1aoWD4.JPG - 12
+Foto 0576_o1aoWD4.JPG - 14
+Foto 0576_o1aoWD4.JPG - 15
+Foto 0576_o1aoWD4.JPG - 8
+Foto 0576_o1aoWD4.JPG - 9
+Foto 0576_o1aoWD4.JPG - 12
+Foto 0738_LbcqZbK.JPG - 12
+Foto 0739_jLLtxkB.JPG - 12
+Foto 0740_jlT6va5.JPG - 12
+Foto 0740_jlT6va5.JPG - 8
+Foto 0740_jlT6va5.JPG - 8
+Foto 0740_jlT6va5.JPG - 9
+Foto 0745_lJblduE.JPG - 12
+Foto 0753_4dwORn3.JPG - 12
+Foto 0765_wqf81T4.JPG - 12
+Foto 0765_wqf81T4.JPG - 7
+Foto 0765_wqf81T4.JPG - 7
+Foto 0765_wqf81T4.JPG - 8
+Foto 0775_qiknpck.JPG - 12
+Foto 0786_lyoTSoI.JPG - 8
+Foto 0786_lyoTSoI.JPG - 9
+Foto 0786_lyoTSoI.JPG - 12
+Foto 0809_OMmTUnc.JPG - 12
+Foto 0810_XC3G2Bi.JPG - 12
+Foto 0811_nF1rZEI.JPG - 12
+Foto 0827_MjGz4OX.JPG - 12
+Foto 0828_N0MLYy0.JPG - 8
+Foto 0828_N0MLYy0.JPG - 12
+Foto 0829_T3Yi3Vb.JPG - 12
+Foto 0838_ZhVgEGc.JPG - 15
+Foto 0838_ZhVgEGc.JPG - 10
+Foto 0838_ZhVgEGc.JPG - 8
+Foto 0838_ZhVgEGc.JPG - 9
+Foto 0838_ZhVgEGc.JPG - 12
+Foto 0838_ZhVgEGc.JPG - 13
+Foto 0838_ZhVgEGc.JPG - 14
+Foto 0838_ZhVgEGc.JPG - 15
+Foto 0838_ZhVgEGc.JPG - 10
+Foto 0838_ZhVgEGc.JPG - 8
+Foto 0838_ZhVgEGc.JPG - 9
+Foto 0838_ZhVgEGc.JPG - 12
+Foto 0862_Ylk1Qpe.JPG - 12
+Foto 0862_Ylk1Qpe.JPG - 15
+Foto 0862_Ylk1Qpe.JPG - 8
+Foto 0862_Ylk1Qpe.JPG - 9
+Foto 0863_T4Rs5Mu.JPG - 12
+Foto 0863_T4Rs5Mu.JPG - 15
+Foto 0863_T4Rs5Mu.JPG - 8
+Foto 0863_T4Rs5Mu.JPG - 9
+Foto 1172_c8fyK84.JPG - 12
+Foto 1178_IHirlg4.JPG - 12
+Foto 1188_9NkYB1i.JPG - 12
+Foto 1265_Yn257GZ.JPG - 12
+Foto 1273_UobiNcK.JPG - 12
+Foto 1386_Emuuu4z.JPG - 12
+Foto 1481_AODf453.JPG - 12
+-----------------Not recognized faces----------------------

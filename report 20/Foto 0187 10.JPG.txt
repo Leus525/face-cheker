@@ -1,0 +1,47 @@
+-----------------Results----------------------
+34/39
+87.17948717948718%
+-----------------Unfound photos----------------------
+Foto 1555.jpg
+-----------------Photo belongs to----------------------
+Foto 0225.JPG - 10
+Foto 0226.JPG - 10
+Foto 0253.JPG - 10
+Foto 0384.JPG - 10
+Foto 0385.JPG - 10
+Foto 0386.JPG - 10
+Foto 0387_Anz3l2K.JPG - 10
+Foto 0419_9gC3wQ0.JPG - 10
+Foto 0504.JPG - 10
+Foto 0505.JPG - 10
+Foto 0677_mdqXSnI.JPG - 10
+Foto 0718.JPG - 10
+Foto 0719.JPG - 10
+Foto 0720_vHluADX.JPG - 10
+Foto 0834.JPG - 15
+Foto 0834.JPG - 10
+Foto 0835.JPG - 10
+Foto 0885.JPG - 10
+Foto 0902.JPG - 10
+Foto 0905.JPG - 10
+Foto 1493.jpg - 10
+Foto 1497.jpg - 10
+Foto 1506.jpg - 13
+Foto 1507.jpg - 13
+Foto 1555.jpg - 10
+Foto 1669.jpg - 10
+Foto 1689.jpg - 10
+Foto 1692.jpg - 10
+Foto 1693.jpg - 10
+Foto 1732.jpg - 10
+Foto 1824_8UsjjXV.JPG - 10
+Foto 1834.JPG - 10
+Foto 1863.JPG - 10
+Foto0503_XXiydcQ.JPG - 10
+-----------------Not recognized faces----------------------
+Foto 0187 10_m9rUNW4.JPG
+Foto 0237.JPG
+Foto 1565.jpg
+Foto 1773.jpg
+Foto 1825.JPG
+Foto 1840.JPG

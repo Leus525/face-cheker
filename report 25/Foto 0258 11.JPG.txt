@@ -1,0 +1,43 @@
+-----------------Results----------------------
+35/24
+145.83333333333334%
+-----------------Unfound photos----------------------
+-----------------Photo belongs to----------------------
+Foto 0258 11_DrKdrxo.JPG - 12
+Foto 0580_MTkGBGN.JPG - 12
+Foto 0727_1Zn52vJ.JPG - 8
+Foto 0728_GTzQP0D.JPG - 8
+Foto 0833_Heu2Ivn.JPG - 12
+Foto 0896_jyu45zU.JPG - 15
+Foto 0896_jyu45zU.JPG - 8
+Foto 0926_fY7btDq.JPG - 12
+Foto 0926_fY7btDq.JPG - 8
+Foto 0953_nsImhX4.JPG - 12
+Foto 0953_nsImhX4.JPG - 8
+Foto 0980_Lzxa6l1.JPG - 12
+Foto 0980_Lzxa6l1.JPG - 8
+Foto 1018_aGwc3JT.JPG - 12
+Foto 1059_HP2egEC.JPG - 12
+Foto 1092_KdvkdFZ.JPG - 12
+Foto 1176_TjIg2fJ.JPG - 12
+Foto 1176_TjIg2fJ.JPG - 8
+Foto 1235_6ys726r.JPG - 15
+Foto 1235_6ys726r.JPG - 8
+Foto 1235_6ys726r.JPG - 9
+Foto 1235_6ys726r.JPG - 12
+Foto 1364_LSzh304.JPG - 12
+Foto 1364_LSzh304.JPG - 8
+Foto 1435_5DrmUpm.JPG - 12
+Foto 1435_5DrmUpm.JPG - 14
+Foto 1435_5DrmUpm.JPG - 8
+Foto 1435_5DrmUpm.JPG - 9
+Foto 1544_cVZ7E8m.jpg - 12
+Foto 1697_WI9wV7d.jpg - 8
+Foto 1697_WI9wV7d.jpg - 9
+Foto 1712_aHJUWNH.jpg - 12
+Foto 1796_UHbU59W.JPG - 12
+Foto 1797_xPMEK0i.JPG - 12
+Foto 1831_nGckzF8.JPG - 12
+-----------------Not recognized faces----------------------
+Foto 1180_t4WFerY.JPG
+Foto 1662_7VNGH9G.jpg

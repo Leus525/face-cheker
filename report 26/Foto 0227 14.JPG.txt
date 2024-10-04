@@ -1,0 +1,60 @@
+-----------------Results----------------------
+54/23
+234.7826086956522%
+-----------------Unfound photos----------------------
+-----------------Photo belongs to----------------------
+Foto 0227 14_62pC1mA.JPG - 14
+Foto 0291_5OZexk2.JPG - 14
+Foto 0291_5OZexk2.JPG - 9
+Foto 0315_5pK7cNA.JPG - 14
+Foto 0315_5pK7cNA.JPG - 8
+Foto 0315_5pK7cNA.JPG - 9
+Foto 0841_mLCopeG.JPG - 14
+Foto 0841_mLCopeG.JPG - 9
+Foto 0842_xiG180w.JPG - 14
+Foto 0843_8wdpjxk.JPG - 15
+Foto 0843_8wdpjxk.JPG - 8
+Foto 0843_8wdpjxk.JPG - 9
+Foto 0843_8wdpjxk.JPG - 12
+Foto 0843_8wdpjxk.JPG - 14
+Foto 0844_pJRxB3N.JPG - 15
+Foto 0844_pJRxB3N.JPG - 8
+Foto 0844_pJRxB3N.JPG - 9
+Foto 0844_pJRxB3N.JPG - 14
+Foto 0846_2CUEU2F.JPG - 14
+Foto 0888_uTMMgZl.JPG - 14
+Foto 0912_gbeff36.JPG - 14
+Foto 0924_8GHx9la.JPG - 14
+Foto 0999_UAWrkvx.JPG - 14
+Foto 0999_UAWrkvx.JPG - 15
+Foto 0999_UAWrkvx.JPG - 8
+Foto 0999_UAWrkvx.JPG - 9
+Foto 1027_hadkliw.JPG - 14
+Foto 1338_53vt244.JPG - 13
+Foto 1338_53vt244.JPG - 14
+Foto 1378_KKoKMst.JPG - 14
+Foto 1378_KKoKMst.JPG - 14
+Foto 1378_KKoKMst.JPG - 15
+Foto 1378_KKoKMst.JPG - 8
+Foto 1378_KKoKMst.JPG - 9
+Foto 1490_BrZy8g2.jpg - 8
+Foto 1490_BrZy8g2.jpg - 9
+Foto 1525_2RCH8Hr.jpg - 14
+Foto 1668_UIwya2z.jpg - 14
+Foto 1668_UIwya2z.jpg - 9
+Foto 1671_87G9RuQ.jpg - 14
+Foto 1685_phPKtY3.jpg - 13
+Foto 1685_phPKtY3.jpg - 14
+Foto 1685_phPKtY3.jpg - 15
+Foto 1685_phPKtY3.jpg - 8
+Foto 1685_phPKtY3.jpg - 12
+Foto 1685_phPKtY3.jpg - 13
+Foto 1685_phPKtY3.jpg - 14
+Foto 1685_phPKtY3.jpg - 15
+Foto 1685_phPKtY3.jpg - 8
+Foto 1685_phPKtY3.jpg - 9
+Foto 1723_A9HSV3e.jpg - 14
+Foto 1724_k3LtTqi.jpg - 14
+Foto 1833_242X4eP.JPG - 14
+Foto 1833_242X4eP.JPG - 8
+-----------------Not recognized faces----------------------

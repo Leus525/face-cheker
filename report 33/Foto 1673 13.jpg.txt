@@ -1,0 +1,54 @@
+-----------------Results----------------------
+48/4
+1200.0%
+-----------------Unfound photos----------------------
+-----------------Photo belongs to----------------------
+Foto 1673 13_bs0fIXK.jpg - 0
+Foto 1673 13_bs0fIXK.jpg - 0
+Foto 1673 13_bs0fIXK.jpg - 7
+Foto 1673 13_bs0fIXK.jpg - 7
+Foto 1673 13_bs0fIXK.jpg - 12
+Foto 1673 13_bs0fIXK.jpg - 13
+Foto 1673 13_bs0fIXK.jpg - 14
+Foto 1673 13_bs0fIXK.jpg - 15
+Foto 1673 13_bs0fIXK.jpg - 10
+Foto 1673 13_bs0fIXK.jpg - 8
+Foto 1673 13_bs0fIXK.jpg - 9
+Foto 1673 13_bs0fIXK.jpg - 12
+Foto 1674_PI5tCCd.jpg - 0
+Foto 1674_PI5tCCd.jpg - 0
+Foto 1674_PI5tCCd.jpg - 7
+Foto 1674_PI5tCCd.jpg - 7
+Foto 1674_PI5tCCd.jpg - 12
+Foto 1674_PI5tCCd.jpg - 13
+Foto 1674_PI5tCCd.jpg - 14
+Foto 1674_PI5tCCd.jpg - 15
+Foto 1674_PI5tCCd.jpg - 10
+Foto 1674_PI5tCCd.jpg - 8
+Foto 1674_PI5tCCd.jpg - 9
+Foto 1674_PI5tCCd.jpg - 12
+Foto 1675_rCiPUYA.jpg - 0
+Foto 1675_rCiPUYA.jpg - 0
+Foto 1675_rCiPUYA.jpg - 7
+Foto 1675_rCiPUYA.jpg - 7
+Foto 1675_rCiPUYA.jpg - 12
+Foto 1675_rCiPUYA.jpg - 13
+Foto 1675_rCiPUYA.jpg - 14
+Foto 1675_rCiPUYA.jpg - 15
+Foto 1675_rCiPUYA.jpg - 10
+Foto 1675_rCiPUYA.jpg - 8
+Foto 1675_rCiPUYA.jpg - 9
+Foto 1675_rCiPUYA.jpg - 12
+Foto 1694_P8vIGpI.jpg - 0
+Foto 1694_P8vIGpI.jpg - 0
+Foto 1694_P8vIGpI.jpg - 7
+Foto 1694_P8vIGpI.jpg - 7
+Foto 1694_P8vIGpI.jpg - 12
+Foto 1694_P8vIGpI.jpg - 13
+Foto 1694_P8vIGpI.jpg - 14
+Foto 1694_P8vIGpI.jpg - 15
+Foto 1694_P8vIGpI.jpg - 10
+Foto 1694_P8vIGpI.jpg - 8
+Foto 1694_P8vIGpI.jpg - 9
+Foto 1694_P8vIGpI.jpg - 12
+-----------------Not recognized faces----------------------

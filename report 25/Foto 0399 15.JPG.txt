@@ -1,0 +1,52 @@
+-----------------Results----------------------
+45/27
+166.66666666666666%
+-----------------Unfound photos----------------------
+Foto 0399 15_S6eld48.JPG
+-----------------Photo belongs to----------------------
+Foto 0399 15_S6eld48.JPG - 15
+Foto 0399 15_S6eld48.JPG - 8
+Foto 0399 15_S6eld48.JPG - 13
+Foto 0399 15_S6eld48.JPG - 9
+Foto 0399 15_S6eld48.JPG - 12
+Foto 0400_x3Xj0x8.JPG - 13
+Foto 0400_x3Xj0x8.JPG - 15
+Foto 0412_saInK7V.JPG - 15
+Foto 0412_saInK7V.JPG - 8
+Foto 0412_saInK7V.JPG - 9
+Foto 0413_PBMSPqL.JPG - 15
+Foto 0413_PBMSPqL.JPG - 8
+Foto 0413_PBMSPqL.JPG - 9
+Foto 0553_vShf5p7.JPG - 15
+Foto 0854_lINOPv3.JPG - 15
+Foto 0932_JYG4P4Z.JPG - 15
+Foto 0933_XvavSDn.JPG - 15
+Foto 0933_XvavSDn.JPG - 8
+Foto 0938_2kr6US0.JPG - 15
+Foto 0938_2kr6US0.JPG - 8
+Foto 0952_to6i76K.JPG - 15
+Foto 1017_62Jg6z4.JPG - 15
+Foto 1076_jY2SfKL.JPG - 15
+Foto 1101_v2GcaV4.JPG - 15
+Foto 1116_ygmfggW.JPG - 15
+Foto 1116_ygmfggW.JPG - 10
+Foto 1263_Evr0jdV.JPG - 15
+Foto 1263_Evr0jdV.JPG - 8
+Foto 1264_4yC4DdW.JPG - 15
+Foto 1279_vsaVjPR.JPG - 15
+Foto 1279_vsaVjPR.JPG - 8
+Foto 1409_V5sA2My.JPG - 15
+Foto 1445_ecsoyLx.JPG - 15
+Foto 1461_cMOEhaD.JPG - 15
+Foto 1476_ttI1Olh.JPG - 15
+Foto 1477_FozjDV9.JPG - 15
+Foto 1654_co3Uzcp.jpg - 15
+Foto 1654_co3Uzcp.jpg - 8
+Foto 1654_co3Uzcp.jpg - 9
+Foto 1661_qyP2dWA.jpg - 15
+Foto 1661_qyP2dWA.jpg - 8
+Foto 1661_qyP2dWA.jpg - 9
+Foto 1667_ScmHSCb.jpg - 15
+Foto 1837_xjZMe4B.JPG - 15
+Foto 1838_1pQxDkj.JPG - 15
+-----------------Not recognized faces----------------------

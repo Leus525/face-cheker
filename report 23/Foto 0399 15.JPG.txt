@@ -1,0 +1,35 @@
+-----------------Results----------------------
+0<- faces found  0/27
+0.0%
+-----------------Unfound photos----------------------
+Foto 0399 15_3IwmILq.JPG
+Foto 1116_0228YAu.JPG
+-----------------Photo belongs to----------------------
+-----------------Not recognized faces----------------------
+Foto 0399 15_3IwmILq.JPG
+Foto 0400_k8kvoRx.JPG
+Foto 0412_0LuwBgc.JPG
+Foto 0413_8mYul75.JPG
+Foto 0553_FUgcHdG.JPG
+Foto 0854_Fkj4ZlA.JPG
+Foto 0932_cnF2vav.JPG
+Foto 0933_Mrc47Dr.JPG
+Foto 0938_wN1CfNk.JPG
+Foto 0952_MgQXoos.JPG
+Foto 1017_kLdbvkq.JPG
+Foto 1076_L0Fkepc.JPG
+Foto 1101_MgNKqLX.JPG
+Foto 1116_0228YAu.JPG
+Foto 1263_4d6c5VE.JPG
+Foto 1264_KspMUSF.JPG
+Foto 1279_EioFrld.JPG
+Foto 1409_xyRp4Az.JPG
+Foto 1445_Rk1i7Yt.JPG
+Foto 1461_UV2o7Pf.JPG
+Foto 1476_dbuEUMk.JPG
+Foto 1477_8gOcUCK.JPG
+Foto 1654_Tuxd0Wi.jpg
+Foto 1661_nYG7VaD.jpg
+Foto 1667_gG2h5XK.jpg
+Foto 1837_gh70S35.JPG
+Foto 1838_lYvNQuX.JPG

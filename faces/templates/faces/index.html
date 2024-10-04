@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>File checker</title>
+</head>
+<body>
+        <h1>Face Checker</h1>
+        <hr>
+        {% load static %}
+
+{% block content %}
+        <form action="/new-face/" method="post" enctype="multipart/form-data">
+            {% csrf_token %}
+            <label for="id_photo">Add photo:</label>
+            <input type="file" name="photo" accept="image/*" required="" aria-invalid="true" id="id_photo" multiple>
+            <button type="submit">Submit</button>
+<!--            <ul class="errorlist"><li>photo<ul class="errorlist"><li>This field is required.</li></ul></li></ul>-->
+            {{ formset.errors }}
+            {{ formset.non_field_errors }}
+            {{ formset.non_form_errors }}
+        </form>
+        <hr>
+
+        <form action="/compare-face/" method="post" enctype="multipart/form-data">
+            {% csrf_token %}
+            <label for="id_photo">Compare photo:</label>
+
+            <input type="file" name="photo" accept="image/*" required="" aria-invalid="true" id="compare_photo" multiple>
+            <button type="submit">Submit</button>
+<!--            <ul class="errorlist"><li>photo<ul class="errorlist"><li>This field is required.</li></ul></li></ul>-->
+            {{ formset.errors }}
+            {{ formset.non_field_errors }}
+            {{ formset.non_form_errors }}
+        </form>
+  {% if uploaded_file_url %}
+    <p>File uploaded at: <a href="{{ uploaded_file_url }}">{{ uploaded_file_url }}</a></p>
+  {% endif %}
+{% endblock %}
+        <hr>
+        <a href="/admin/">admin</a>
+</body>
+</html>

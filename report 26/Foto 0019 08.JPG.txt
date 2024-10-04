@@ -1,0 +1,37 @@
+-----------------Results----------------------
+13<- faces found  2/20
+10.0%
+-----------------Unfound photos----------------------
+-----------------Photo belongs to----------------------
+Foto 0936_4efObNg.JPG - 15
+Foto 0936_4efObNg.JPG - 10
+Foto 0936_4efObNg.JPG - 8
+Foto 0936_4efObNg.JPG - 8
+Foto 0936_4efObNg.JPG - 12
+Foto 1412_jOnkw6F.JPG - 7
+Foto 1412_jOnkw6F.JPG - 7
+Foto 1412_jOnkw6F.JPG - 13
+Foto 1412_jOnkw6F.JPG - 14
+Foto 1412_jOnkw6F.JPG - 15
+Foto 1412_jOnkw6F.JPG - 8
+Foto 1412_jOnkw6F.JPG - 8
+Foto 1412_jOnkw6F.JPG - 12
+-----------------Not recognized faces----------------------
+Foto 0019 08_wJWfKJT.JPG
+Foto 0050_Xe3bBCJ.JPG
+Foto 0102_gkGhrvW.JPG
+Foto 0284_Jh53xkP.JPG
+Foto 0380_WGTSiD5.JPG
+Foto 0565_VO5zQ1G.JPG
+Foto 0566_yZXHpwg.JPG
+Foto 0961_brTcbJV.JPG
+Foto 0964_LEjj4ZD.JPG
+Foto 0970_y6PVpQr.JPG
+Foto 1159_05sDTJP.JPG
+Foto 1160_DwQ2EQM.JPG
+Foto 1385_0XTKFBY.JPG
+Foto 1468_hZ6J9Mi.JPG
+Foto 1520_p1jaOSG.jpg
+Foto 1621_h90r1NY.jpg
+Foto 1686_6cB4G0y.jpg
+Foto 1687_UjnttZH.jpg

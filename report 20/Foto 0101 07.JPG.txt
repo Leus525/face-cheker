@@ -1,0 +1,57 @@
+-----------------Results----------------------
+35/47
+74.46808510638297%
+-----------------Unfound photos----------------------
+Foto 0101 07_vip5kRh.JPG
+Foto0016_w9uQbpB.JPG
+Foto0100_mLPJlVP.JPG
+-----------------Photo belongs to----------------------
+Foto 0101 07_vip5kRh.JPG - 7
+Foto 0239_wizf9lJ.JPG - 7
+Foto 0271_is65GvT.JPG - 7
+Foto 0445_ZovoYbD.JPG - 7
+Foto 0475_6HQZb7A.JPG - 7
+Foto 0764_mK3pSDK.JPG - 7
+Foto 1031_2MdIHs4.JPG - 7
+Foto 1032_5n8bo3N.JPG - 7
+Foto 1033_aIAUL59.JPG - 7
+Foto 1046_GkOvr6g.JPG - 7
+Foto 1099_lYMIwXo.JPG - 7
+Foto 1103_5X22rEv.JPG - 7
+Foto 1199_jxG0mMb.JPG - 7
+Foto 1207_ekvJuky.JPG - 7
+Foto 1217_ffOg6YF.JPG - 7
+Foto 1254_WdeLC3P.JPG - 7
+Foto 1262_uQvKznD.JPG - 7
+Foto 1347_b0mrpXw.JPG - 7
+Foto 1348_Xs5otGa.JPG - 7
+Foto 1352_tIF1jKb.JPG - 7
+Foto 1372_jt1Odi4.JPG - 7
+Foto 1387_eos1Q1D.JPG - 7
+Foto 1422_PdVrU1c.JPG - 7
+Foto 1424_3cWi2eL.JPG - 7
+Foto 1556_VzQLq16.jpg - 7
+Foto 1618_Z60ZpHE.jpg - 7
+Foto 1619_iFlelZw.jpg - 7
+Foto 1650_jFqlBRT.jpg - 7
+Foto 1829_eHtkk24.JPG - 7
+Foto 1829_eHtkk24.JPG - 15
+Foto 1842_h4LnYj7.JPG - 7
+Foto0016_w9uQbpB.JPG - 7
+Foto0022_Q21mRYS.JPG - 7
+Foto0100_mLPJlVP.JPG - 7
+Foto0611_CwLpBK5.JPG - 7
+-----------------Not recognized faces----------------------
+Foto 0442_oqJ30GW.JPG
+Foto 0474_LcJrJxt.JPG
+Foto 0623_YLeADKd.JPG
+Foto 0666_OBQRfWJ.JPG
+Foto 0667_DSi9QL5.JPG
+Foto 0702_TotokUa.JPG
+Foto 0716_XadFS6H.JPG
+Foto 0725_5BbggLD.JPG
+Foto 0780_W2AUyw5.JPG
+Foto 1070_B3OXrdB.JPG
+Foto 1253_F40Ps57.JPG
+Foto 1363_7iQi7tO.JPG
+Foto 1699_aqB7Tr8.jpg

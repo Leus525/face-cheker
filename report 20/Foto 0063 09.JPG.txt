@@ -1,0 +1,20 @@
+-----------------Results----------------------
+10/14
+71.42857142857143%
+-----------------Unfound photos----------------------
+-----------------Photo belongs to----------------------
+Foto 0063 09_SkW6rGt.JPG - 9
+Foto 0064_1SpoQkv.JPG - 9
+Foto 0075_ia8Jlcu.JPG - 9
+Foto 0267_qLCI6iV.JPG - 9
+Foto 0465_sV2XyFm.JPG - 9
+Foto 0564_qXrjIK6.JPG - 9
+Foto 0755_AMVR55V.JPG - 9
+Foto 1108_w3SznlY.JPG - 9
+Foto 1362_jmOpYdR.JPG - 9
+Foto 1620_bFzoSWp.jpg - 9
+-----------------Not recognized faces----------------------
+Foto 0122_5LlGuHs.JPG
+Foto 0940_WQknzb3.JPG
+Foto 1192_eNj5bGv.JPG
+Foto 1244_Pa0JEnN.JPG

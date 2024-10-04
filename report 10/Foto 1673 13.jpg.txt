@@ -1,0 +1,10 @@
+-----------------Results----------------------
+1/4
+25.0%
+-----------------Unfound photos----------------------
+-----------------Photo belongs to----------------------
+Foto 1673 13_u3sIDd4.jpg - 13
+-----------------Not recognized faces----------------------
+Foto 1674_uzVBgPx.jpg
+Foto 1675_F14MxfD.jpg
+Foto 1694_dWX1Jo1.jpg

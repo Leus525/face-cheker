@@ -1,0 +1,94 @@
+-----------------Results----------------------
+86/39
+220.51282051282053%
+-----------------Unfound photos----------------------
+Foto 1555_xcEJtNO.jpg
+Foto 1732_W2d6Aiu.jpg
+-----------------Photo belongs to----------------------
+Foto 0187 10_64JsdAX.JPG - 10
+Foto 0187 10_64JsdAX.JPG - 8
+Foto 0225_2bQKU5c.JPG - 10
+Foto 0226_q0nlHqK.JPG - 10
+Foto 0237_QbI2jH7.JPG - 10
+Foto 0253_jndNkyo.JPG - 10
+Foto 0384_i8ok1bL.JPG - 8
+Foto 0384_i8ok1bL.JPG - 9
+Foto 0384_i8ok1bL.JPG - 10
+Foto 0385_g95j0fa.JPG - 10
+Foto 0385_g95j0fa.JPG - 8
+Foto 0386_FW1H5el.JPG - 10
+Foto 0386_FW1H5el.JPG - 13
+Foto 0386_FW1H5el.JPG - 9
+Foto 0387_Ovmo5qa.JPG - 10
+Foto 0387_Ovmo5qa.JPG - 13
+Foto 0387_Ovmo5qa.JPG - 9
+Foto 0419_021c7EN.JPG - 10
+Foto 0419_021c7EN.JPG - 8
+Foto 0504_KYBMr2e.JPG - 10
+Foto 0505_q9lWsax.JPG - 10
+Foto 0677_xia1jrz.JPG - 10
+Foto 0718_nZrZ9ka.JPG - 10
+Foto 0718_nZrZ9ka.JPG - 12
+Foto 0718_nZrZ9ka.JPG - 15
+Foto 0718_nZrZ9ka.JPG - 8
+Foto 0718_nZrZ9ka.JPG - 9
+Foto 0719_Df3Y8Aw.JPG - 10
+Foto 0720_IKHSKRL.JPG - 10
+Foto 0720_IKHSKRL.JPG - 15
+Foto 0720_IKHSKRL.JPG - 8
+Foto 0834_S0rEMvc.JPG - 15
+Foto 0834_S0rEMvc.JPG - 10
+Foto 0835_MrWZCQv.JPG - 10
+Foto 0835_MrWZCQv.JPG - 15
+Foto 0885_757wwmJ.JPG - 10
+Foto 0885_757wwmJ.JPG - 8
+Foto 0885_757wwmJ.JPG - 9
+Foto 0902_tsF2wih.JPG - 10
+Foto 0902_tsF2wih.JPG - 14
+Foto 0902_tsF2wih.JPG - 15
+Foto 0902_tsF2wih.JPG - 8
+Foto 0902_tsF2wih.JPG - 9
+Foto 0902_tsF2wih.JPG - 12
+Foto 0905_pqTMT67.JPG - 10
+Foto 1493_mGAhN4V.jpg - 10
+Foto 1497_F1X705c.jpg - 10
+Foto 1506_nJi2mMg.jpg - 13
+Foto 1507_Q9rE9In.jpg - 13
+Foto 1555_xcEJtNO.jpg - 10
+Foto 1555_xcEJtNO.jpg - 12
+Foto 1555_xcEJtNO.jpg - 8
+Foto 1555_xcEJtNO.jpg - 9
+Foto 1555_xcEJtNO.jpg - 12
+Foto 1565_ElVdkUm.jpg - 10
+Foto 1669_E245VnD.jpg - 10
+Foto 1689_sK8tFSp.jpg - 10
+Foto 1689_sK8tFSp.jpg - 13
+Foto 1689_sK8tFSp.jpg - 15
+Foto 1689_sK8tFSp.jpg - 8
+Foto 1692_Gfqk9ub.jpg - 10
+Foto 1692_Gfqk9ub.jpg - 13
+Foto 1692_Gfqk9ub.jpg - 9
+Foto 1693_2rM5Pw4.jpg - 10
+Foto 1693_2rM5Pw4.jpg - 8
+Foto 1693_2rM5Pw4.jpg - 13
+Foto 1732_W2d6Aiu.jpg - 10
+Foto 1732_W2d6Aiu.jpg - 8
+Foto 1732_W2d6Aiu.jpg - 12
+Foto 1732_W2d6Aiu.jpg - 8
+Foto 1732_W2d6Aiu.jpg - 9
+Foto 1732_W2d6Aiu.jpg - 8
+Foto 1732_W2d6Aiu.jpg - 9
+Foto 1773_z0m8gLg.jpg - 10
+Foto 1824_S0UNeLB.JPG - 10
+Foto 1824_S0UNeLB.JPG - 12
+Foto 1825_6JVC0Pr.JPG - 10
+Foto 1825_6JVC0Pr.JPG - 8
+Foto 1834_x8d2rF5.JPG - 10
+Foto 1834_x8d2rF5.JPG - 8
+Foto 1834_x8d2rF5.JPG - 15
+Foto 1834_x8d2rF5.JPG - 8
+Foto 1834_x8d2rF5.JPG - 9
+Foto 1840_P2Gb3e4.JPG - 10
+Foto 1863_npHmnkA.JPG - 10
+Foto0503_nEFev9C.JPG - 10
+-----------------Not recognized faces----------------------

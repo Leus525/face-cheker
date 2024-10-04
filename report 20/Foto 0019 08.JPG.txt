@@ -1,0 +1,26 @@
+-----------------Results----------------------
+4/20
+20.0%
+-----------------Unfound photos----------------------
+-----------------Photo belongs to----------------------
+Foto 0566_DzEWPfd.JPG - 8
+Foto 0936_YAIA3xS.JPG - 8
+Foto 1159_15sBkXJ.JPG - 8
+Foto 1385_IVs4dAN.JPG - 8
+-----------------Not recognized faces----------------------
+Foto 0019 08_qABdiEW.JPG
+Foto 0050_Hx6y3BA.JPG
+Foto 0102_li3mzeg.JPG
+Foto 0284_lzcdg4v.JPG
+Foto 0380_Ur87tgq.JPG
+Foto 0565_JEaNU6r.JPG
+Foto 0961_qK7xGDq.JPG
+Foto 0964_sdwvmtR.JPG
+Foto 0970_DN2uOoi.JPG
+Foto 1160_AtTZVgT.JPG
+Foto 1412_H3NNu4t.JPG
+Foto 1468_DeiYvAJ.JPG
+Foto 1520_0AwICAX.jpg
+Foto 1621_tLThVao.jpg
+Foto 1686_GrM6XuL.jpg
+Foto 1687_C4Aw4UD.jpg

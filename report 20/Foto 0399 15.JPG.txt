@@ -1,0 +1,34 @@
+-----------------Results----------------------
+24/27
+88.88888888888889%
+-----------------Unfound photos----------------------
+Foto 0399 15_dA0W5rk.JPG
+-----------------Photo belongs to----------------------
+Foto 0400_AHGZPJy.JPG - 15
+Foto 0412_awBvUPE.JPG - 15
+Foto 0413_YnX7s7b.JPG - 15
+Foto 0553_TazZ7N4.JPG - 15
+Foto 0854_L756lwz.JPG - 15
+Foto 0932_FRM4ZqO.JPG - 15
+Foto 0933_pIplokF.JPG - 15
+Foto 0938_6UTpIQq.JPG - 15
+Foto 0952_fUDEAXp.JPG - 15
+Foto 1017_doxrivW.JPG - 15
+Foto 1076_Ctq4iy5.JPG - 15
+Foto 1101_r6U1NSA.JPG - 15
+Foto 1116_1VY0OX0.JPG - 15
+Foto 1263_DV20yv5.JPG - 15
+Foto 1264_L1tOGdb.JPG - 15
+Foto 1279_k1EVIFF.JPG - 15
+Foto 1409_fPICG0Z.JPG - 15
+Foto 1445_Ikc0lqH.JPG - 15
+Foto 1461_fVBpzkm.JPG - 15
+Foto 1476_ESbS73V.JPG - 15
+Foto 1477_qnuU3SO.JPG - 15
+Foto 1667_5qicvJM.jpg - 15
+Foto 1837_JGblaND.JPG - 15
+Foto 1838_twkDFcY.JPG - 15
+-----------------Not recognized faces----------------------
+Foto 0399 15_dA0W5rk.JPG
+Foto 1654_n84Frhx.jpg
+Foto 1661_ZjnbcnC.jpg
